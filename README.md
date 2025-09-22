@@ -4,8 +4,7 @@ A fully responsive **Netflix Clone Website** built to replicate the UI and funct
 
 ## 📸 Screenshots
 
-![Homepage Screenshot]("<img width="1920" height="1080" alt="responsive-netflix" src="https://github.com/user-attachments/assets/f0191137-1f1d-44f3-aa3a-cec69f68c170" />
-")
+![Homepage Screenshot]<img width="1920" height="1080" alt="responsive-netflix" src="https://github.com/user-attachments/assets/f0191137-1f1d-44f3-aa3a-cec69f68c170" />
 
 ---
 
